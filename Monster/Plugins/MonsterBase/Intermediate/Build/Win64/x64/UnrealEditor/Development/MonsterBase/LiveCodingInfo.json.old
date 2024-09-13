@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MonsterBase.cpp.obj": [
+			"BTTask_Attack.gen.cpp.obj",
+			"BTTask_CalculateDistance.gen.cpp.obj",
+			"BTTask_MonsterCanAttack.gen.cpp.obj",
+			"MonsterAIController.gen.cpp.obj",
+			"MonsterBase.init.gen.cpp.obj",
+			"MonsterBaseCharacter.gen.cpp.obj",
+			"MonsterState.gen.cpp.obj",
+			"BTTask_Attack.cpp.obj",
+			"BTTask_CalculateDistance.cpp.obj",
+			"BTTask_MonsterCanAttack.cpp.obj",
+			"MonsterAIController.cpp.obj",
+			"MonsterBase.cpp.obj",
+			"MonsterBaseCharacter.cpp.obj",
+			"MonsterState.cpp.obj",
+			"MyClass.cpp.obj"
+		]
+	}
+}

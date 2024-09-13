@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\game\\Monster\\Source\\Monster\\Monster.Build.cs",
+		"C:\\game\\Monster\\Plugins\\MonsterBase\\Source\\MonsterBase\\MonsterBase.Build.cs",
+		"C:\\game\\Monster\\Source\\Monster.Target.cs",
+		"C:\\game\\Monster\\Source\\MonsterEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

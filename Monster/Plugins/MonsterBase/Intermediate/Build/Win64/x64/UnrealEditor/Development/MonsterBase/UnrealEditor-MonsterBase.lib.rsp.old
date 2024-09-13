@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MonsterBase.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\game\Monster\Intermediate\Build\Win64\x64\MonsterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\game\Monster\Plugins\MonsterBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonsterBase\Module.MonsterBase.cpp.obj"
+"C:\game\Monster\Plugins\MonsterBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonsterBase\Default.rc2.res"
+/OUT:"C:\game\Monster\Plugins\MonsterBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonsterBase\UnrealEditor-MonsterBase.lib"

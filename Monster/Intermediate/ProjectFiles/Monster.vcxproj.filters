@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Monster.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Monster.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MonsterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MonsterBase">
+      <UniqueIdentifier>{CCCF2CD1-8555-3986-AD39-C724D1A30C90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MonsterBase\Source">
+      <UniqueIdentifier>{772D69C8-7786-39C5-A97C-E44806921CE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MonsterBase\Source\MonsterBase">
+      <UniqueIdentifier>{7ACA88B8-7359-38AA-BBD7-C000C5C47693}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MonsterBase\Source\MonsterBase\MonsterBase.Build.cs">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase</Filter>
+    </None>
+    <Filter Include="Plugins\MonsterBase\Source\MonsterBase\Public">
+      <UniqueIdentifier>{07F244F4-DA8B-3340-86BF-C6B3D2C38D7E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\BTTask_Attack.cpp">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\BTTask_Attack.h">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\BTTask_CalculateDistance.cpp">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\BTTask_CalculateDistance.h">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\BTTask_MonsterCanAttack.cpp">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\BTTask_MonsterCanAttack.h">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MonsterAIController.cpp">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MonsterAIController.h">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MonsterBase.cpp">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MonsterBase.h">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MonsterBaseCharacter.cpp">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MonsterBaseCharacter.h">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MonsterState.cpp">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MonsterState.h">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MyClass.cpp">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MonsterBase\Source\MonsterBase\Public\MyClass.h">
+      <Filter>Plugins\MonsterBase\Source\MonsterBase\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\MonsterBase\MonsterBase.uplugin">
+      <Filter>Plugins\MonsterBase</Filter>
+    </None>
+    <Filter Include="Plugins\MonsterBase\Resources">
+      <UniqueIdentifier>{127D9792-9EAD-323D-91A1-5E736E86C10D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MonsterBase\Resources\Icon128.png">
+      <Filter>Plugins\MonsterBase\Resources</Filter>
+    </None>
+    <Filter Include="Source\Monster">
+      <UniqueIdentifier>{727F4D25-8329-3AB1-8644-26FCCA9225D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Monster\Monster.Build.cs">
+      <Filter>Source\Monster</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Monster\Monster.cpp">
+      <Filter>Source\Monster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Monster\Monster.h">
+      <Filter>Source\Monster</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Monster\MonsterCharacter.cpp">
+      <Filter>Source\Monster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Monster\MonsterCharacter.h">
+      <Filter>Source\Monster</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Monster\MonsterGameMode.cpp">
+      <Filter>Source\Monster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Monster\MonsterGameMode.h">
+      <Filter>Source\Monster</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

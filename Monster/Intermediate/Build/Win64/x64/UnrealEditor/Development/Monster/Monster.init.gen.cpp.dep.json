@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\game\\monster\\intermediate\\build\\win64\\unrealeditor\\inc\\monster\\uht\\monster.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\game\\monster\\intermediate\\build\\win64\\x64\\monstereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\game\\monster\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\monster\\definitions.monster.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
